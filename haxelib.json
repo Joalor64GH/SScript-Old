@@ -1,0 +1,14 @@
+{
+    "name": "SScript-Old",
+    "url": "https://github.com/Joalor64GH/SScript-Old",
+    "license": "Apache",
+    "tags": ["hscript"],
+    "description": "An easy-to-use Haxe Script class for all targets.",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "Fixes for Linux and Mac.",
+    "contributors": ["TheWorldMachinima", "Joalor64GH"],
+    "dependencies": {
+      
+    }
+  }
